@@ -25,7 +25,7 @@ Hiện mình đang theo học ngành **Công nghệ thông tin** tại trường
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/Notekunn/notekunn.github.io/issues/7) in [Notekunn/notekunn.github.io](https://github.com/Notekunn/notekunn.github.io)
+1. ❗️ Opened issue [#1](https://github.com/Teav4/hitomi-crawler/issues/1) in [Teav4/hitomi-crawler](https://github.com/Teav4/hitomi-crawler)
 2. 🗣 Commented on [#7](https://github.com/Notekunn/notekunn.github.io/issues/7) in [Notekunn/notekunn.github.io](https://github.com/Notekunn/notekunn.github.io)
 3. 🗣 Commented on [#10](https://github.com/Notekunn/notekunn.github.io/issues/10) in [Notekunn/notekunn.github.io](https://github.com/Notekunn/notekunn.github.io)
 4. ❗️ Opened issue [#10](https://github.com/Notekunn/notekunn.github.io/issues/10) in [Notekunn/notekunn.github.io](https://github.com/Notekunn/notekunn.github.io)
