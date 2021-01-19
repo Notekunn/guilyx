@@ -25,10 +25,10 @@ Hiện mình đang theo học ngành **Công nghệ thông tin** tại trường
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Teav4/hitomi-crawler/issues/1) in [Teav4/hitomi-crawler](https://github.com/Teav4/hitomi-crawler)
-2. 🗣 Commented on [#7](https://github.com/Notekunn/notekunn.github.io/issues/7) in [Notekunn/notekunn.github.io](https://github.com/Notekunn/notekunn.github.io)
-3. 🗣 Commented on [#10](https://github.com/Notekunn/notekunn.github.io/issues/10) in [Notekunn/notekunn.github.io](https://github.com/Notekunn/notekunn.github.io)
-4. ❗️ Opened issue [#10](https://github.com/Notekunn/notekunn.github.io/issues/10) in [Notekunn/notekunn.github.io](https://github.com/Notekunn/notekunn.github.io)
+1. 🎉 Merged PR [#1](https://github.com/Notekunn/auto-tin-chi/pull/1) in [Notekunn/auto-tin-chi](https://github.com/Notekunn/auto-tin-chi)
+2. 🎉 Merged PR [#2](https://github.com/Notekunn/auto-tin-chi/pull/2) in [Notekunn/auto-tin-chi](https://github.com/Notekunn/auto-tin-chi)
+3. 🗣 Commented on [#2](https://github.com/Notekunn/auto-tin-chi/issues/2) in [Notekunn/auto-tin-chi](https://github.com/Notekunn/auto-tin-chi)
+4. ❗️ Opened issue [#1](https://github.com/Teav4/hitomi-crawler/issues/1) in [Teav4/hitomi-crawler](https://github.com/Teav4/hitomi-crawler)
 5. ❗️ Opened issue [#114](https://github.com/rossjrw/rossjrw/issues/114) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
 <!--END_SECTION:activity-->
 
