@@ -102,6 +102,3 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-**GitHub:**
-
-![notekunn's github stats](https://github-readme-stats.vercel.app/api?username=notekunn&show_icons=true&hide_border=true)
