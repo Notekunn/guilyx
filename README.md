@@ -2,7 +2,7 @@
 [![Actions Status](https://github.com/Notekunn/Notekunn/workflows/update-gh-activity/badge.svg)](https://github.com/Notekunn/Notekunn/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=notekunn.notekunn)
 
-![Notekunn](https://count.getloli.com/get/@notekunn)
+<!--![Notekunn](https://count.getloli.com/get/@notekunn)-->
 
 ### Hello 👋, Mình là [Notekunn](https://Notekunn.github.io) 
 Mình hiện là **Sinh viên 👨🏽‍💼 [@ACT](http://actvn.edu.vn/)** (Học viện kỹ thuật mật mã). <br />
