@@ -19,8 +19,9 @@ Hiện mình đang theo học ngành **Công nghệ thông tin** tại trường
 - 🐬 Github: **[Notekunn](https://github.com/Notekunn)**.
 
 **:zap: Recent Activity:**
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<!--START_SECTION:waka__-->
-<!--END_SECTION:waka__-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
