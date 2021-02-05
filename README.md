@@ -8,7 +8,7 @@
 Mình hiện là **Sinh viên 👨🏽‍💼 [@ACT](http://actvn.edu.vn/)** (Học viện kỹ thuật mật mã). <br />
 Hiện mình đang theo học ngành **Công nghệ thông tin** tại trường. <br />
 
-![Meme](https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif)
+<!--![Meme](https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif)-->
 
 
 
@@ -19,8 +19,8 @@ Hiện mình đang theo học ngành **Công nghệ thông tin** tại trường
 - 🐬 Github: **[Notekunn](https://github.com/Notekunn)**.
 
 **:zap: Recent Activity:**
-<!--START_SECTION:activity__-->
-<!--END_SECTION:activity__-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!--START_SECTION:waka__-->
 <!--END_SECTION:waka__-->
