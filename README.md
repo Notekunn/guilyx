@@ -21,10 +21,10 @@ Hiện mình đang theo học ngành **Công nghệ thông tin** tại trường
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/VNBot-Developers/annie/pull/6) in [VNBot-Developers/annie](https://github.com/VNBot-Developers/annie)
-2. 🎉 Merged PR [#5](https://github.com/VNBot-Developers/annie/pull/5) in [VNBot-Developers/annie](https://github.com/VNBot-Developers/annie)
-3. 🎉 Merged PR [#1](https://github.com/Notekunn/parse-schedule-kma/pull/1) in [Notekunn/parse-schedule-kma](https://github.com/Notekunn/parse-schedule-kma)
-4. 🗣 Commented on [#2](https://github.com/Notekunn/auto-tin-chi/issues/2) in [Notekunn/auto-tin-chi](https://github.com/Notekunn/auto-tin-chi)
+1. ❌ Closed PR [#1](https://github.com/Notekunn/Notekunn.github.io/pull/1) in [Notekunn/Notekunn.github.io](https://github.com/Notekunn/Notekunn.github.io)
+2. 🎉 Merged PR [#6](https://github.com/VNBot-Developers/annie/pull/6) in [VNBot-Developers/annie](https://github.com/VNBot-Developers/annie)
+3. 🎉 Merged PR [#5](https://github.com/VNBot-Developers/annie/pull/5) in [VNBot-Developers/annie](https://github.com/VNBot-Developers/annie)
+4. 🎉 Merged PR [#1](https://github.com/Notekunn/parse-schedule-kma/pull/1) in [Notekunn/parse-schedule-kma](https://github.com/Notekunn/parse-schedule-kma)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
