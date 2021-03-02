@@ -4,13 +4,14 @@
 
 <!--![Notekunn](https://count.getloli.com/get/@notekunn)-->
 
-### Hello 👋, Mình là [Notekunn](https://Notekunn.github.io) 
+### Hello 👋, Mình là [Notekunn](https://Notekunn.github.io)
+
 Mình hiện là **Sinh viên 👨🏽‍💼 [@ACT](http://actvn.edu.vn/)** (Học viện kỹ thuật mật mã). <br />
 Hiện mình đang theo học ngành **Công nghệ thông tin** tại trường. <br />
 
 <!--![Meme](https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif)-->
 
-
+![Personal npm card](https://i.imgur.com/mi8nZo1.png)
 
 **Liên hệ:**
 
@@ -21,6 +22,7 @@ Hiện mình đang theo học ngành **Công nghệ thông tin** tại trường
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
+
 1. ❗️ Opened issue [#1](https://github.com/skyneko/school/issues/1) in [skyneko/school](https://github.com/skyneko/school)
 2. ❌ Closed PR [#1](https://github.com/Notekunn/Notekunn.github.io/pull/1) in [Notekunn/Notekunn.github.io](https://github.com/Notekunn/Notekunn.github.io)
 3. 🎉 Merged PR [#6](https://github.com/VNBot-Developers/annie/pull/6) in [VNBot-Developers/annie](https://github.com/VNBot-Developers/annie)
