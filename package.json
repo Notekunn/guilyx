@@ -1,6 +1,6 @@
 {
 	"name": "@notekunn/about-me",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"description": "[![Actions Status](https://github.com/Notekunn/Notekunn/workflows/wakatime-stats/badge.svg)](https://github.com/Notekunn/Notekunn/actions) [![Actions Status](https://github.com/Notekunn/Notekunn/workflows/update-gh-activity/badge.svg)](https://github.com/Notekunn/Notekunn/actions) ![](https://visitor-badge.glitch.me/badge?page_id=notekunn.notekunn)",
 	"main": "index.js",
 	"scripts": {

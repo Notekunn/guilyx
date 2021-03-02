@@ -7,6 +7,7 @@ const inquirer = require('./lib/inquirer');
 const file = require('./lib/file');
 const cliSpinners = require('cli-spinners');
 const github = require('./lib/github');
+const project = require('./lib/project');
 const ora = require('ora');
 
 // const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
@@ -35,13 +36,12 @@ async function main() {
 	const cloneData = await github.clone(templateUrl, projectPath);
 	console.log(chalk.magenta('[UwU]: '), chalk.green(cloneData));
 	__GLOBAL.spinner.stop();
-	return `Create project ${projectName} success!`;
+	// await project.setup(projectPath);
+	console.log(chalk.red.bold('cd'), chalk.green.bold(projectName));
+	console.log(chalk.red.bold('npm'), chalk.green.bold('init'));
+	console.log(chalk.magenta('[UwU]: '), chalk.green(`Create project ${projectName} success!`));
 }
-main()
-	.then((data) => {
-		console.log(chalk.magenta('[UwU]: '), chalk.green(data));
-	})
-	.catch((error) => {
-		console.log(chalk.red('[ERR]: '), error.message);
-		__GLOBAL.spinner.stop();
-	});
+main().catch((error) => {
+	console.log(chalk.red('[ERR]: '), error.message);
+	__GLOBAL.spinner.stop();
+});
