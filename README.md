@@ -23,9 +23,9 @@ Hiện mình đang theo học ngành **Công nghệ thông tin** tại trường
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com/skyneko/school/issues/1) in [skyneko/school](https://github.com/skyneko/school)
-2. ❌ Closed PR [#1](https://github.com/Notekunn/Notekunn.github.io/pull/1) in [Notekunn/Notekunn.github.io](https://github.com/Notekunn/Notekunn.github.io)
-3. 🎉 Merged PR [#6](https://github.com/VNBot-Developers/annie/pull/6) in [VNBot-Developers/annie](https://github.com/VNBot-Developers/annie)
+1. ❗️ Closed issue [#6486](https://github.com/discordjs/discord.js/issues/6486) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+2. ❗️ Opened issue [#6486](https://github.com/discordjs/discord.js/issues/6486) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+3. 🗣 Commented on [#6288](https://github.com/discordjs/discord.js/issues/6288) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
 4. 🎉 Merged PR [#5](https://github.com/VNBot-Developers/annie/pull/5) in [VNBot-Developers/annie](https://github.com/VNBot-Developers/annie)
 <!--END_SECTION:activity-->
 
