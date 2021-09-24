@@ -31,3 +31,4 @@ Hiện mình đang theo học ngành **Công nghệ thông tin** tại trường
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+![Stats](https://github-readme-stats.vercel.app/api?username=notekunn&show_icons=true&theme=radical&count_private=true)
